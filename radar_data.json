@@ -1,0 +1,50 @@
+[
+  {
+    "diet_group": "fish",
+    "mean_ghgs": 0.5884591787963128,
+    "mean_land": 0.7508973333229,
+    "mean_watscar": 0.6047777018271492,
+    "mean_bio": 0.3206866370185196,
+    "mean_acid": 0.5250912236364321
+  },
+  {
+    "diet_group": "meat",
+    "mean_ghgs": 0.2429686209268137,
+    "mean_land": 0.23077214568997087,
+    "mean_watscar": 0.4921643667493587,
+    "mean_bio": 0.1299724866487883,
+    "mean_acid": 0.16215013164063175
+  },
+  {
+    "diet_group": "meat100",
+    "mean_ghgs": 0.0,
+    "mean_land": 0.0,
+    "mean_watscar": 0.0,
+    "mean_bio": 0.0,
+    "mean_acid": 0.0
+  },
+  {
+    "diet_group": "meat50",
+    "mean_ghgs": 0.48039316164516727,
+    "mean_land": 0.5508279434884488,
+    "mean_watscar": 0.6597431656507279,
+    "mean_bio": 0.25743723214312275,
+    "mean_acid": 0.4073600775619056
+  },
+  {
+    "diet_group": "vegan",
+    "mean_ghgs": 1.0,
+    "mean_land": 1.0,
+    "mean_watscar": 1.0,
+    "mean_bio": 1.0,
+    "mean_acid": 1.0
+  },
+  {
+    "diet_group": "veggie",
+    "mean_ghgs": 0.6913933283717717,
+    "mean_land": 0.7856938487700321,
+    "mean_watscar": 0.8173055351660573,
+    "mean_bio": 0.3464925161585484,
+    "mean_acid": 0.6183040474078393
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "age_group": "20-29",
+    "mean_ghgs": 0.1100919530134872,
+    "mean_land": 0.0,
+    "mean_watscar": 0.0,
+    "mean_bio": 0.0,
+    "mean_acid": 0.0062684060376956
+  },
+  {
+    "age_group": "30-39",
+    "mean_ghgs": 1.0,
+    "mean_land": 0.2945091242752127,
+    "mean_watscar": 0.20545940653073227,
+    "mean_bio": 0.6877356336563604,
+    "mean_acid": 0.7837479819204084
+  },
+  {
+    "age_group": "40-49",
+    "mean_ghgs": 0.76352042452326,
+    "mean_land": 0.5941055834900416,
+    "mean_watscar": 0.1594863228724223,
+    "mean_bio": 0.6565728706235715,
+    "mean_acid": 0.3510049057033168
+  },
+  {
+    "age_group": "50-59",
+    "mean_ghgs": 0.0,
+    "mean_land": 0.3652963701937456,
+    "mean_watscar": 0.339507140873713,
+    "mean_bio": 0.24187324920210032,
+    "mean_acid": 0.0
+  },
+  {
+    "age_group": "60-69",
+    "mean_ghgs": 0.71739272730896,
+    "mean_land": 1.0,
+    "mean_watscar": 0.7789101951408548,
+    "mean_bio": 0.6841741124225308,
+    "mean_acid": 1.0
+  },
+  {
+    "age_group": "70-79",
+    "mean_ghgs": 0.7986467563918325,
+    "mean_land": 0.8798091437919514,
+    "mean_watscar": 1.0,
+    "mean_bio": 1.0,
+    "mean_acid": 0.6342471906941698
+  }
+]
